@@ -16,3 +16,4 @@ A simple, interactive To-Do List application built with HTML, CSS, and JavaScrip
 1. Clone or download this repository to your local machine.
 2. Open the project folder.
 3. Simply double-click on the `index.html` file to open it in your default web browser. No server or additional setup is required.
+
